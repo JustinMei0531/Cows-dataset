@@ -1,0 +1,7 @@
+
+    train: F:\\Python\\projects\\YOLO-cow\\dataset\\images\\train
+    val: F:\\Python\\projects\\YOLO-cow\\dataset\\images\\val
+    
+    nc: 1  # Only one class (cow)
+    names: ['cow']
+    
